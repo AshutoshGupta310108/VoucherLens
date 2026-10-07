@@ -3,7 +3,7 @@
 **VoucherLens: Open-Source LLM Voucher Classifier for VYOM+**
 
 > Hacktober Fest | Open Source AI Hackathon | Track 4: Intelligent Voucher Classification Using Open-Source LLMs
-> Team: _<VoucherLens>_ | Members: _<1.Ashutosh gupta  2.Shivang singh   3.Bhagyesh Manwani   4.Om khakre>_
+> Team: _<VoucherLens>_ | Members: _<1.Ashutosh gupta  2.Shivang singh >_
 
 
 ## 🚀 VoucherLens at a Glance
